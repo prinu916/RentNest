@@ -26,8 +26,8 @@ const HowItWorks = () => {
     <section className="py-20 bg-muted/30">
       <div className="container px-4 mx-auto">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">How It Works</h2>
-          <p className="text-xl text-muted-foreground">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">How It Works</h2>
+          <p className="text-lg sm:text-xl text-muted-foreground">
             Your journey to finding the perfect room is just three simple steps away
           </p>
         </div>

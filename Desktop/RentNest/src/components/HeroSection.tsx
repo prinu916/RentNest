@@ -36,14 +36,14 @@ const HeroSection = () => {
             Find Your Perfect Space
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-bold leading-tight">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
             Find a Place You'll Love to Call{" "}
             <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               Home
             </span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             Discover cozy rooms, friendly spaces, and affordable stays near you. Because home isn't just a room — it's comfort, connection, and peace of mind.
           </p>
 

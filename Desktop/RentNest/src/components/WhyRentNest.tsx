@@ -28,10 +28,10 @@ const WhyRentNest = () => {
     <section className="py-20 bg-gradient-to-b from-background to-muted/20">
       <div className="container px-4 mx-auto">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">
             Where Comfort Meets Affordability
           </h2>
-          <p className="text-xl text-muted-foreground">
+          <p className="text-lg sm:text-xl text-muted-foreground">
             RentNest helps you find rooms that feel welcoming, safe, and just right for you — whether you're a student, working professional, or moving to a new city for a fresh start.
           </p>
         </div>
